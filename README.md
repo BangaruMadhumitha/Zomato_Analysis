@@ -6,7 +6,7 @@ This project provides a comprehensive analysis of restaurant data across 15 coun
 
 Excel Project File is hosted in Google Drive due to GitHub size limitations.
 
-📁 [👉 Click here to access the complete project folder](https://drive.google.com/file/d/1iRclTDqcIrkCXulWmorFtGCCN-uqbouX/view?usp=sharing)
+📁 [👉 Click here to access the Excel project file](https://drive.google.com/file/d/1iRclTDqcIrkCXulWmorFtGCCN-uqbouX/view?usp=sharing)
 
 
 ## 📊 Project Overview
