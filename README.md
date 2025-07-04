@@ -2,11 +2,11 @@
 
 This project provides a comprehensive analysis of restaurant data across 15 countries and 141 cities using interactive dashboards built using various tools. The goal is to understand key trends in restaurant openings, cuisine preferences, pricing, delivery availability and customer ratings.
 
-## 🔗 Access Full Project Files
+## 🔗 Access Excel Project File
 
-All supporting files — Dashboards (Power BI, Tableau, Excel), SQL scripts, Datasets and Questionnaire — are hosted in Google Drive due to GitHub size limitations.
+Excel Project File is hosted in Google Drive due to GitHub size limitations.
 
-📁 [👉 Click here to access the complete project folder](https://drive.google.com/file/d/19hQoidOKvPXhHypk6Tu9mrPwPR8VoEwv/view?usp=drive_link)
+📁 [👉 Click here to access the complete project folder](https://drive.google.com/file/d/1iRclTDqcIrkCXulWmorFtGCCN-uqbouX/view?usp=sharing)
 
 
 ## 📊 Project Overview
